@@ -1,0 +1,22 @@
+-------------------------------------------------------
+answers.txt
+-------------------------------------------------------
+Author:  Vikas Movva
+ID:      190957230
+Email:   movv7230@mylaurier.ca
+Date:    Feb. 7th, 2025
+-------------------------------------------------------
+Answers for Lab 3
+-------------------------------------------------------
+
+Task 1
+-1, 0xFFFFFFFF
+
+Task 2
+0x00001020
+
+Task 3
+LED pattern is altered (LED_BITS)
+The interval at which the LEDs changed state changed (DELAY_TIME)
+LED pattern shifts one position to the right every iteration of the loop
+The shift occurs at regular intervals

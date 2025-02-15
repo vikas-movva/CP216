@@ -1,0 +1,19 @@
+-------------------------------------------------------
+answers.txt
+-------------------------------------------------------
+Author:  Vikas Movva
+ID:      190957230
+Email:   movv7230@mylaurier.ca
+Date:    01/21/2025
+-------------------------------------------------------
+Answers for Lab 1
+-------------------------------------------------------
+
+Task 1
+The behavior of the program doesn't change when you replace the immediate hex value of 0xE with the decimal value 14
+
+Task 2
+Yes this is legal and doesn't result in any compilation errors
+
+Task 3
+No, this is not legal. Using two immediate values with the add operation does not work and results in compilation errors, however replacing the middle operand with a register does not result in compilation errors.
